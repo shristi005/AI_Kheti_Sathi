@@ -39,6 +39,7 @@ An AI-powered multilingual assistant that helps small and marginal farmers make 
 - 🔍 **RAG** – Retrieval-Augmented Generation  
 - 🌐 **Cloud Platform** – IBM Cloud  
 - 📡 **AI Agent Builder** – IBM Agent Lab
+- **Knowledge Base** - From official government site for Mandi Price
 
 ---
 
